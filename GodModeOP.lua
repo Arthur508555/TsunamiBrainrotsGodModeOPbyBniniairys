@@ -1,1 +1,1 @@
-loadstring(game:HttpGet('https://moondevelopment.onrender.com/get/a3dc9fc7'))()
+loadstring(game:HttpGet('https://moondevelopment.onrender.com/get/7ae9ef39'))()
